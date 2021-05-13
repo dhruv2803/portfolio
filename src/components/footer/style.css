@@ -1,0 +1,14 @@
+.footer{
+    background-color:rgb(29, 28, 82);
+    padding: 0px 75px;
+    color: white;
+    
+}
+.contact_details{
+    list-style: none;
+    display: flex;
+}
+.contact_details li{
+    margin:0px 20px;
+}
+

@@ -1,0 +1,31 @@
+.profile{
+    width: 80%;
+    margin: auto;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    margin: auto;
+    padding: 10px;
+}
+fieldset{
+    border: 2px solid white;
+    border-radius: 5px;
+}
+legend{
+    text-align: center;
+    font-size: larger;
+    font-weight: 500;
+}
+span{
+    width: 100%;
+}
+.date{
+    float: right ;
+}
+.skills{
+    list-style-type: square;
+}
+.subskill{
+    list-style-type: circle;
+}

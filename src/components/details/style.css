@@ -1,0 +1,37 @@
+.details{
+    padding: auto;
+    margin: 5px 50px;
+    text-align: center;
+    justify-content: center;
+    background:url("./background.jpg");
+    width: auto;
+    height: 500px;
+}
+.name{
+    font-size: xx-large;
+    font-weight: 500;
+    color:rgb(252, 70, 4);
+}
+h3{
+    font-size: x-large;
+    color:rgb(29, 28, 82);
+    padding: 20px;
+    margin: auto;
+    animation: typing 8s steps(19);
+    animation-iteration-count: infinite;
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 2px;
+    border-right: 2px solid black;
+}
+@keyframes typing {
+    0%{
+        width: 0ch;
+    }
+    50%{
+        width: 19ch;
+    }
+    100%{
+        width: 0px;
+    }
+}

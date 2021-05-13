@@ -1,0 +1,26 @@
+.hcard{
+    border:2px solid white;
+    border-radius:5px;
+    margin: 5px 0px;
+    padding: 5px;
+
+  }
+  .hcard_head{
+    border-bottom:1px solid black;
+  }
+  .ptime{
+    float:right;
+    clear:both;
+  }
+  .pos{
+    clear:both;
+    font-size:larger;
+    font-weight:500;
+    margin:1px 10px; 
+  }
+  .detail{
+    clear:both;
+    font-size:larger;
+    margin:1px 10px; 
+    list-style-type: square;
+  }

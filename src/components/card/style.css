@@ -1,0 +1,25 @@
+.card{
+    width: 450px;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin: 5px 5px;
+}
+.title{
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+.duration{
+    float: right;
+    clear: both;
+    margin-right: 10px;
+}
+.detail_list{
+    margin: 1px 0px;
+    list-style-type: square;
+}
+.stack_list{
+    list-style-type: circle;
+}
+.card_details{
+    clear: both;
+}
